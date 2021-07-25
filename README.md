@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hola 👋, soy Luis Porras!</h1>
-<h3 align="center">I'm a Colombian Remote Software Engineer, Podcaster and Speaker</h3>
+<h3 align="center">I'm a 🇨🇴 Colombian Remote Software Engineer, Podcaster and Speaker</h3>
