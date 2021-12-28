@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋, soy Luis Porras!</h1>
+<h1 align="center">Hello 👋, I am Luis Porras!</h1>
 <h3 align="center">I'm a 🇨🇴 Colombian Remote Software Engineer, Podcaster and Speaker</h3>
