@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hello 👋, I am Luis Alfredo Porras!</h1>
 
-<h3>I'm a 🇨🇴 Colombian Remote Software Engineer</h3>
+<h3>I'm a 🇨🇴 Colombian Software Engineer</h3>
 
 ### Languages and Tools:
 ![Ruby](https://img.shields.io/badge/ruby-%2323f.svg?style=for-the-badge&logo=ruby&logoColor=red)
